@@ -65,7 +65,7 @@ main {
 
 main a {
     background-color:#D9A441;
-    color: #2F2F2F;
+    color:#2F2F2F;
     text-decoration: none; 
     padding: 0.5rem;
     display: inline-block;
@@ -84,7 +84,6 @@ section {
     background-color: white;
     border: 1px solid #E5E5E5;
     padding: 1rem;
-    width: 30%;
 }
 
 img {
@@ -111,7 +110,7 @@ footer {
         display: flex;
         justify-content: center;
         gap: 1rem;
-}
+    }
 
     .card-row {
         display: flex;
